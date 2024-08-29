@@ -3,6 +3,10 @@ Open Earth Foundation
 
 Disaggregating emissions to city level
 
+### Key outputs
+- State-level fuel sales data disaggregated to the [city-level](data/fuel_sales_estimates_by_city.csv) based on population, vehicle owning population, and trip distances.
+- What-a-waste data with [city-level population data](data/city_level_data_with_population.csv) from 2016 and 2020 sourced from WorldPop estimates.
+
 Getting Started
 -------------
 
