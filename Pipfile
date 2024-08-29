@@ -4,8 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+geopandas = "*"
+rasterio = "*"
+rioxarray = "*"
+rasterstats = "*"
+requests = "*"
+urllib3 = "==1.26.6"
+censusdis = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.9"

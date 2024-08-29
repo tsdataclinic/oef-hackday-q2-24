@@ -1,8 +1,7 @@
 import os
-os.chdir("/home/canyon/hackday-q2-2024-open-earth-foundation")
+# os.chdir("/home/canyon/hackday-q2-2024-open-earth-foundation")
 from src.utils import *
 import censusdis.data as ced
-import matplotlib.pyplot as plt
 from censusdis.states import ALL_STATES_AND_DC
 import pandas as pd
 import warnings
@@ -95,9 +94,9 @@ state_to_fips = {
 def get_fips_code(state_name):
     return state_to_fips.get(state_name, 'State not found')
 
-def get_city_interpolation():
+def get_city_interpolation(city_gdf):
 
-    city_gdf = load_data_from_ts3("Geometries/US_city_geometries.geojson")
+    # city_gdf = load_data_from_ts3("Geometries/US_city_geometries.geojson")
     city_gdf["state"] = city_gdf['display_name'].apply(find_state)
     city_gdf["fip"] = city_gdf['state'].apply(get_fips_code)
 

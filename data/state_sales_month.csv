@@ -1,0 +1,677 @@
+,state,month,total_fuel
+0,Alabama,index,0
+1,Alaska,index,1
+2,Arizona,index,2
+3,Arkansas,index,3
+4,California,index,4
+5,Colorado,index,5
+6,Connecticut,index,6
+7,Delaware,index,7
+8,DC,index,8
+9,Florida,index,9
+10,Georgia,index,10
+11,Hawaii,index,11
+12,Idaho,index,12
+13,Illinois,index,13
+14,Indiana,index,14
+15,Iowa,index,15
+16,Kansas,index,16
+17,Kentucky,index,17
+18,Louisiana,index,18
+19,Maine,index,19
+20,Maryland,index,20
+21,Massachusetts,index,21
+22,Michigan,index,22
+23,Minnesota,index,23
+24,Mississippi,index,24
+25,Missouri,index,25
+26,Montana,index,26
+27,Nebraska,index,27
+28,Nevada,index,28
+29,New Hampshire,index,29
+30,New Jersey,index,30
+31,New Mexico,index,31
+32,New York,index,32
+33,North Carolina,index,33
+34,North Dakota,index,34
+35,Ohio,index,35
+36,Oklahoma,index,36
+37,Oregon,index,37
+38,Pennsylvania,index,38
+39,Rhode Island,index,39
+40,South Carolina,index,40
+41,South Dakota,index,41
+42,Tennessee,index,42
+43,Texas,index,43
+44,Utah,index,44
+45,Vermont,index,45
+46,Virginia,index,46
+47,Washington,index,47
+48,West Virginia,index,48
+49,Wisconsin,index,49
+50,Wyoming,index,50
+51,Puerto Rico,index,51
+52,Alabama,January,376408171
+53,Alaska,January,37253959
+54,Arizona,January,314783867
+55,Arkansas,January,169267110
+56,California,January,1286177521
+57,Colorado,January,305719140
+58,Connecticut,January,125723878
+59,Delaware,January,40743593
+60,DC,January,9100961
+61,Florida,January,963931979
+62,Georgia,January,515563551
+63,Hawaii,January,38061704
+64,Idaho,January,101874350
+65,Illinois,January,462661817
+66,Indiana,January,343561477
+67,Iowa,January,213950779
+68,Kansas,January,150440423
+69,Kentucky,January,228606604
+70,Louisiana,January,245549563
+71,Maine,January,17880469
+72,Maryland,January,231318161
+73,Massachusetts,January,226122239
+74,Michigan,January,416021487
+75,Minnesota,January,284496802
+76,Mississippi,January,207002936
+77,Missouri,January,319267454
+78,Montana,January,58418389
+79,Nebraska,January,105648600
+80,Nevada,January,133385967
+81,New Hampshire,January,64163906
+82,New Jersey,January,328940713
+83,New Mexico,January,141845035
+84,New York,January,548284827
+85,North Carolina,January,467132420
+86,North Dakota,January,55815415
+87,Ohio,January,484559742
+88,Oklahoma,January,222903084
+89,Oregon,January,169778976
+90,Pennsylvania,January,463223791
+91,Rhode Island,January,31380358
+92,South Carolina,January,281003795
+93,South Dakota,January,62471345
+94,Tennessee,January,359066634
+95,Texas,January,1652379602
+96,Utah,January,147253373
+97,Vermont,January,27507299
+98,Virginia,January,344062238
+99,Washington,January,247644073
+100,West Virginia,January,90238276
+101,Wisconsin,January,265336042
+102,Wyoming,January,38854971
+103,Puerto Rico,January,99273787
+104,Alabama,February,334797766
+105,Alaska,February,34442446
+106,Arizona,February,327240798
+107,Arkansas,February,175363174
+108,California,February,1295132202
+109,Colorado,February,294298549
+110,Connecticut,February,124565032
+111,Delaware,February,43076541
+112,DC,February,9275343
+113,Florida,February,913764252
+114,Georgia,February,517871347
+115,Hawaii,February,36966810
+116,Idaho,February,93086551
+117,Illinois,February,433858763
+118,Indiana,February,342585012
+119,Iowa,February,161590035
+120,Kansas,February,140904596
+121,Kentucky,February,230762868
+122,Louisiana,February,241203208
+123,Maine,February,67732405
+124,Maryland,February,233161549
+125,Massachusetts,February,228040422
+126,Michigan,February,403150740
+127,Minnesota,February,244611257
+128,Mississippi,February,174872960
+129,Missouri,February,293655946
+130,Montana,February,60314799
+131,Nebraska,February,105756308
+132,Nevada,February,129820522
+133,New Hampshire,February,63625109
+134,New Jersey,February,331453087
+135,New Mexico,February,123315401
+136,New York,February,498319658
+137,North Carolina,February,483875860
+138,North Dakota,February,42107869
+139,Ohio,February,485471584
+140,Oklahoma,February,207120932
+141,Oregon,February,162670382
+142,Pennsylvania,February,449557489
+143,Rhode Island,February,31669372
+144,South Carolina,February,285215998
+145,South Dakota,February,54303114
+146,Tennessee,February,306824860
+147,Texas,February,1549049479
+148,Utah,February,141494835
+149,Vermont,February,26921790
+150,Virginia,February,397870050
+151,Washington,February,249495993
+152,West Virginia,February,76221790
+153,Wisconsin,February,292678822
+154,Wyoming,February,48875276
+155,Puerto Rico,February,76355611
+156,Alabama,March,318022644
+157,Alaska,March,39898300
+158,Arizona,March,372708632
+159,Arkansas,March,187314834
+160,California,March,1527986890
+161,Colorado,March,323708050
+162,Connecticut,March,145299154
+163,Delaware,March,47374096
+164,DC,March,10147725
+165,Florida,March,901281482
+166,Georgia,March,330837773
+167,Hawaii,March,41002850
+168,Idaho,March,94881084
+169,Illinois,March,489610832
+170,Indiana,March,372305061
+171,Iowa,March,190762977
+172,Kansas,March,237813161
+173,Kentucky,March,267539236
+174,Louisiana,March,263155466
+175,Maine,March,114066573
+176,Maryland,March,239471972
+177,Massachusetts,March,247663025
+178,Michigan,March,468036805
+179,Minnesota,March,237292458
+180,Mississippi,March,188931153
+181,Missouri,March,392907487
+182,Montana,March,72036141
+183,Nebraska,March,117891121
+184,Nevada,March,116810493
+185,New Hampshire,March,67873671
+186,New Jersey,March,369625102
+187,New Mexico,March,136039196
+188,New York,March,601053325
+189,North Carolina,March,541281869
+190,North Dakota,March,60529933
+191,Ohio,March,548764729
+192,Oklahoma,March,256658752
+193,Oregon,March,168695150
+194,Pennsylvania,March,541089673
+195,Rhode Island,March,35215861
+196,South Carolina,March,321589297
+197,South Dakota,March,54098151
+198,Tennessee,March,421321107
+199,Texas,March,1791440782
+200,Utah,March,159530681
+201,Vermont,March,28777794
+202,Virginia,March,400252718
+203,Washington,March,289846997
+204,West Virginia,March,83915071
+205,Wisconsin,March,289515983
+206,Wyoming,March,50467462
+207,Puerto Rico,March,89966928
+208,Alabama,April,367652933
+209,Alaska,April,37577784
+210,Arizona,April,335342135
+211,Arkansas,April,182262301
+212,California,April,1364740194
+213,Colorado,April,327937033
+214,Connecticut,April,142699148
+215,Delaware,April,45340357
+216,DC,April,9139780
+217,Florida,April,1026495093
+218,Georgia,April,586297569
+219,Hawaii,April,40333697
+220,Idaho,April,98051596
+221,Illinois,April,470589389
+222,Indiana,April,354032796
+223,Iowa,April,209861271
+224,Kansas,April,141132012
+225,Kentucky,April,255105568
+226,Louisiana,April,259394973
+227,Maine,April,8308886
+228,Maryland,April,323805132
+229,Massachusetts,April,238353347
+230,Michigan,April,430065553
+231,Minnesota,April,270201969
+232,Mississippi,April,220460339
+233,Missouri,April,347295247
+234,Montana,April,61368737
+235,Nebraska,April,118880964
+236,Nevada,April,145977992
+237,New Hampshire,April,63283284
+238,New Jersey,April,360966662
+239,New Mexico,April,147021008
+240,New York,April,486474276
+241,North Carolina,April,506386386
+242,North Dakota,April,52429188
+243,Ohio,April,509083584
+244,Oklahoma,April,237501096
+245,Oregon,April,181614878
+246,Pennsylvania,April,486107086
+247,Rhode Island,April,38898175
+248,South Carolina,April,309209246
+249,South Dakota,April,58958848
+250,Tennessee,April,372676833
+251,Texas,April,1760221841
+252,Utah,April,155652500
+253,Vermont,April,24811390
+254,Virginia,April,675442437
+255,Washington,April,295291644
+256,West Virginia,April,163349095
+257,Wisconsin,April,264116380
+258,Wyoming,April,53790957
+259,Puerto Rico,April,83531123
+260,Alabama,May,345091569
+261,Alaska,May,39496392
+262,Arizona,May,358544336
+263,Arkansas,May,209010391
+264,California,May,1410910035
+265,Colorado,May,353500610
+266,Connecticut,May,158123548
+267,Delaware,May,49824254
+268,DC,May,10208998
+269,Florida,May,979368048
+270,Georgia,May,176368989
+271,Hawaii,May,40760263
+272,Idaho,May,101610686
+273,Illinois,May,497537335
+274,Indiana,May,398583136
+275,Iowa,May,204996715
+276,Kansas,May,158180612
+277,Kentucky,May,271135611
+278,Louisiana,May,247869385
+279,Maine,May,130101483
+280,Maryland,May,269540392
+281,Massachusetts,May,286983170
+282,Michigan,May,479656622
+283,Minnesota,May,239725191
+284,Mississippi,May,195038220
+285,Missouri,May,367436600
+286,Montana,May,72229045
+287,Nebraska,May,125707686
+288,Nevada,May,149890745
+289,New Hampshire,May,70255744
+290,New Jersey,May,379819648
+291,New Mexico,May,148194780
+292,New York,May,568298277
+293,North Carolina,May,559057345
+294,North Dakota,May,50273737
+295,Ohio,May,569456992
+296,Oklahoma,May,258036548
+297,Oregon,May,180611012
+298,Pennsylvania,May,514138125
+299,Rhode Island,May,35704934
+300,South Carolina,May,326682892
+301,South Dakota,May,56904593
+302,Tennessee,May,411055779
+303,Texas,May,1819680813
+304,Utah,May,164900082
+305,Vermont,May,29970052
+306,Virginia,May,330966797
+307,Washington,May,295954071
+308,West Virginia,May,104571838
+309,Wisconsin,May,312843133
+310,Wyoming,May,54614808
+311,Puerto Rico,May,85527663
+312,Alabama,June,358611162
+313,Alaska,June,45995214
+314,Arizona,June,329674033
+315,Arkansas,June,195383117
+316,California,June,1492876944
+317,Colorado,June,355267785
+318,Connecticut,June,161092860
+319,Delaware,June,49667591
+320,DC,June,10524346
+321,Florida,June,978202720
+322,Georgia,June,535537272
+323,Hawaii,June,39199540
+324,Idaho,June,103250804
+325,Illinois,June,493874848
+326,Indiana,June,374965653
+327,Iowa,June,199643861
+328,Kansas,June,160876355
+329,Kentucky,June,263582565
+330,Louisiana,June,251122840
+331,Maine,June,8478238
+332,Maryland,June,272223918
+333,Massachusetts,June,254794616
+334,Michigan,June,505433039
+335,Minnesota,June,259229947
+336,Mississippi,June,223270145
+337,Missouri,June,380279249
+338,Montana,June,78890511
+339,Nebraska,June,130166847
+340,Nevada,June,127124118
+341,New Hampshire,June,70910615
+342,New Jersey,June,377627627
+343,New Mexico,June,137877634
+344,New York,June,663452394
+345,North Carolina,June,527882046
+346,North Dakota,June,66883998
+347,Ohio,June,556722889
+348,Oklahoma,June,247613944
+349,Oregon,June,186913685
+350,Pennsylvania,June,561333813
+351,Rhode Island,June,41892797
+352,South Carolina,June,313460564
+353,South Dakota,June,64740197
+354,Tennessee,June,395818563
+355,Texas,June,1737551666
+356,Utah,June,163476791
+357,Vermont,June,29669742
+358,Virginia,June,429727526
+359,Washington,June,292986949
+360,West Virginia,June,106433083
+361,Wisconsin,June,314530898
+362,Wyoming,June,53006758
+363,Puerto Rico,June,84110585
+364,Alabama,July,354783237
+365,Alaska,July,56182209
+366,Arizona,July,315453403
+367,Arkansas,July,186586130
+368,California,July,1369918561
+369,Colorado,July,365935817
+370,Connecticut,July,154225019
+371,Delaware,July,51250460
+372,DC,July,10529340
+373,Florida,July,919629595
+374,Georgia,July,584534919
+375,Hawaii,July,40617578
+376,Idaho,July,98472887
+377,Illinois,July,468502763
+378,Indiana,July,356899371
+379,Iowa,July,218612508
+380,Kansas,July,132374472
+381,Kentucky,July,259241304
+382,Louisiana,July,254255732
+383,Maine,July,79130269
+384,Maryland,July,258455516
+385,Massachusetts,July,257205355
+386,Michigan,July,471767291
+387,Minnesota,July,317240671
+388,Mississippi,July,209954599
+389,Missouri,July,337261560
+390,Montana,July,82621119
+391,Nebraska,July,125488234
+392,Nevada,July,149862042
+393,New Hampshire,July,72575723
+394,New Jersey,July,383627200
+395,New Mexico,July,137957169
+396,New York,July,555601514
+397,North Carolina,July,524845735
+398,North Dakota,July,65339847
+399,Ohio,July,517197873
+400,Oklahoma,July,235861774
+401,Oregon,July,190601454
+402,Pennsylvania,July,510295937
+403,Rhode Island,July,40253584
+404,South Carolina,July,297237763
+405,South Dakota,July,69652970
+406,Tennessee,July,400288711
+407,Texas,July,1715497067
+408,Utah,July,162309639
+409,Vermont,July,29667873
+410,Virginia,July,393127500
+411,Washington,July,299284127
+412,West Virginia,July,124667224
+413,Wisconsin,July,303480515
+414,Wyoming,July,64188643
+415,Puerto Rico,July,81463360
+416,Alabama,August,349703320
+417,Alaska,August,59220896
+418,Arizona,August,352777889
+419,Arkansas,August,200360322
+420,California,August,1447165583
+421,Colorado,August,360340989
+422,Connecticut,August,157516961
+423,Delaware,August,54772197
+424,DC,August,10393770
+425,Florida,August,940574843
+426,Georgia,August,592164268
+427,Hawaii,August,42810744
+428,Idaho,August,128110257
+429,Illinois,August,490270309
+430,Indiana,August,400071130
+431,Iowa,August,216909611
+432,Kansas,August,133500141
+433,Kentucky,August,272712248
+434,Louisiana,August,227679427
+435,Maine,August,130572355
+436,Maryland,August,270223297
+437,Massachusetts,August,243560551
+438,Michigan,August,490610645
+439,Minnesota,August,277827472
+440,Mississippi,August,200441223
+441,Missouri,August,396831150
+442,Montana,August,86216925
+443,Nebraska,August,127636257
+444,Nevada,August,154344416
+445,New Hampshire,August,76770559
+446,New Jersey,August,392734029
+447,New Mexico,August,159093134
+448,New York,August,572030541
+449,North Carolina,August,560782818
+450,North Dakota,August,61067762
+451,Ohio,August,574292321
+452,Oklahoma,August,254548024
+453,Oregon,August,194553518
+454,Pennsylvania,August,526095059
+455,Rhode Island,August,40348077
+456,South Carolina,August,340211977
+457,South Dakota,August,67492394
+458,Tennessee,August,391968333
+459,Texas,August,1795834660
+460,Utah,August,183946906
+461,Vermont,August,32356476
+462,Virginia,August,340749472
+463,Washington,August,313776985
+464,West Virginia,August,103366054
+465,Wisconsin,August,361325099
+466,Wyoming,August,74342425
+467,Puerto Rico,August,25274493
+468,Alabama,September,354149508
+469,Alaska,September,44273149
+470,Arizona,September,345759965
+471,Arkansas,September,188774694
+472,California,September,1489340701
+473,Colorado,September,347776976
+474,Connecticut,September,158837037
+475,Delaware,September,50757387
+476,DC,September,10029548
+477,Florida,September,974928903
+478,Georgia,September,561097699
+479,Hawaii,September,40337950
+480,Idaho,September,99261439
+481,Illinois,September,502006396
+482,Indiana,September,364269461
+483,Iowa,September,203105429
+484,Kansas,September,155663486
+485,Kentucky,September,258168431
+486,Louisiana,September,254554953
+487,Maine,September,28876960
+488,Maryland,September,262906486
+489,Massachusetts,September,247275535
+490,Michigan,September,489793400
+491,Minnesota,September,291266217
+492,Mississippi,September,212416248
+493,Missouri,September,371167229
+494,Montana,September,81178035
+495,Nebraska,September,124814199
+496,Nevada,September,121250704
+497,New Hampshire,September,69461166
+498,New Jersey,September,370446320
+499,New Mexico,September,134706373
+500,New York,September,650681085
+501,North Carolina,September,525125844
+502,North Dakota,September,74009892
+503,Ohio,September,539489644
+504,Oklahoma,September,245894500
+505,Oregon,September,186410629
+506,Pennsylvania,September,554047770
+507,Rhode Island,September,37790626
+508,South Carolina,September,309073554
+509,South Dakota,September,71807760
+510,Tennessee,September,401241392
+511,Texas,September,1729368751
+512,Utah,September,159900270
+513,Vermont,September,29761593
+514,Virginia,September,530574727
+515,Washington,September,286452204
+516,West Virginia,September,109209497
+517,Wisconsin,September,294327066
+518,Wyoming,September,71113974
+519,Puerto Rico,September,50900229
+520,Alabama,October,358758847
+521,Alaska,October,38323651
+522,Arizona,October,334810535
+523,Arkansas,October,196727908
+524,California,October,1422309871
+525,Colorado,October,356794597
+526,Connecticut,October,154488446
+527,Delaware,October,49590533
+528,DC,October,10299531
+529,Florida,October,912229097
+530,Georgia,October,580323962
+531,Hawaii,October,40735771
+532,Idaho,October,124377922
+533,Illinois,October,500962890
+534,Indiana,October,370583793
+535,Iowa,October,229739866
+536,Kansas,October,149043359
+537,Kentucky,October,265482764
+538,Louisiana,October,263426438
+539,Maine,October,110109505
+540,Maryland,October,256515709
+541,Massachusetts,October,254723889
+542,Michigan,October,466677366
+543,Minnesota,October,296026946
+544,Mississippi,October,226463687
+545,Missouri,October,356905183
+546,Montana,October,79781653
+547,Nebraska,October,126987019
+548,Nevada,October,147910847
+549,New Hampshire,October,73255172
+550,New Jersey,October,372663338
+551,New Mexico,October,141590830
+552,New York,October,552191062
+553,North Carolina,October,537330158
+554,North Dakota,October,56864935
+555,Ohio,October,535972442
+556,Oklahoma,October,240328087
+557,Oregon,October,181991744
+558,Pennsylvania,October,514063351
+559,Rhode Island,October,40568314
+560,South Carolina,October,309477172
+561,South Dakota,October,66499341
+562,Tennessee,October,394441857
+563,Texas,October,1800051641
+564,Utah,October,159406955
+565,Vermont,October,29672148
+566,Virginia,October,397155335
+567,Washington,October,274734869
+568,West Virginia,October,83347612
+569,Wisconsin,October,234626113
+570,Wyoming,October,69590850
+571,Puerto Rico,October,77954235
+572,Alabama,November,352618771
+573,Alaska,November,33804519
+574,Arizona,November,347014278
+575,Arkansas,November,201754167
+576,California,November,1326989847
+577,Colorado,November,327747402
+578,Connecticut,November,149839785
+579,Delaware,November,47825729
+580,DC,November,10518666
+581,Florida,November,989708281
+582,Georgia,November,568351061
+583,Hawaii,November,38983209
+584,Idaho,November,96531562
+585,Illinois,November,478977626
+586,Indiana,November,380254573
+587,Iowa,November,202039260
+588,Kansas,November,129830001
+589,Kentucky,November,257069652
+590,Louisiana,November,251812134
+591,Maine,November,77719335
+592,Maryland,November,255944234
+593,Massachusetts,November,249470019
+594,Michigan,November,444234804
+595,Minnesota,November,277414732
+596,Mississippi,November,211839314
+597,Missouri,November,370380232
+598,Montana,November,70778647
+599,Nebraska,November,121058406
+600,Nevada,November,138939464
+601,New Hampshire,November,68571936
+602,New Jersey,November,366725433
+603,New Mexico,November,132535099
+604,New York,November,545663083
+605,North Carolina,November,523663336
+606,North Dakota,November,65446997
+607,Ohio,November,526795375
+608,Oklahoma,November,240398358
+609,Oregon,November,171825305
+610,Pennsylvania,November,492459460
+611,Rhode Island,November,36174084
+612,South Carolina,November,301193415
+613,South Dakota,November,68948562
+614,Tennessee,November,391849949
+615,Texas,November,1704497851
+616,Utah,November,156732948
+617,Vermont,November,27833715
+618,Virginia,November,447190955
+619,Washington,November,286010017
+620,West Virginia,November,136095055
+621,Wisconsin,November,326104177
+622,Wyoming,November,60471702
+623,Puerto Rico,November,77918615
+624,Alabama,December,339185054
+625,Alaska,December,36414758
+626,Arizona,December,352159952
+627,Arkansas,December,186305937
+628,California,December,1532003624
+629,Colorado,December,323816402
+630,Connecticut,December,162766752
+631,Delaware,December,49479297
+632,DC,December,10133536
+633,Florida,December,941604332
+634,Georgia,December,551190185
+635,Hawaii,December,39769695
+636,Idaho,December,119373083
+637,Illinois,December,500570579
+638,Indiana,December,349456546
+639,Iowa,December,182606856
+640,Kansas,December,166143822
+641,Kentucky,December,247021287
+642,Louisiana,December,243871377
+643,Maine,December,99465201
+644,Maryland,December,266749644
+645,Massachusetts,December,250431615
+646,Michigan,December,457083840
+647,Minnesota,December,265142920
+648,Mississippi,December,194512436
+649,Missouri,December,361748390
+650,Montana,December,64791041
+651,Nebraska,December,112632228
+652,Nevada,December,107945616
+653,New Hampshire,December,70893503
+654,New Jersey,December,346632696
+655,New Mexico,December,139299004
+656,New York,December,675917401
+657,North Carolina,December,515220030
+658,North Dakota,December,52105328
+659,Ohio,December,526971021
+660,Oklahoma,December,252653995
+661,Oregon,December,166573729
+662,Pennsylvania,December,557348398
+663,Rhode Island,December,36972213
+664,South Carolina,December,278423558
+665,South Dakota,December,62687330
+666,Tennessee,December,381740419
+667,Texas,December,1755180781
+668,Utah,December,150579598
+669,Vermont,December,28377516
+670,Virginia,December,298735109
+671,Washington,December,264700597
+672,West Virginia,December,107740752
+673,Wisconsin,December,342570961
+674,Wyoming,December,63488515
+675,Puerto Rico,December,63998186

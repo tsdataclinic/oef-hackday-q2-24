@@ -163,3 +163,4 @@ cython_debug/
 
 data/osm_data_updated.csv
 .DS_Store
+data/city_pops_full.geojson

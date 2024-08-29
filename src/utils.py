@@ -1,4 +1,3 @@
-import ts3
 from io import StringIO
 from shapely.geometry import Point
 import geopandas as gpd
